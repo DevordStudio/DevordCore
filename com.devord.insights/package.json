@@ -1,0 +1,11 @@
+{
+  "name": "com.devord.insights",
+  "version": "1.0.0",
+  "displayName": "Editor Core",
+  "description": "Editor core utilities.",
+  "unity": "2021.3",
+  "hideInEditor": true,
+  "author": {
+    "name": "devord"
+  }
+}
